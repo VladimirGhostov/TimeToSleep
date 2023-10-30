@@ -1,0 +1,11 @@
+E:\Исходник\TimeToSleep\TimeToSleep\bin\Debug\TimeToSleep.exe.config
+E:\Исходник\TimeToSleep\TimeToSleep\bin\Debug\TimeToSleep.exe
+E:\Исходник\TimeToSleep\TimeToSleep\bin\Debug\TimeToSleep.pdb
+E:\Исходник\TimeToSleep\TimeToSleep\obj\Debug\TimeToSleep.csproj.AssemblyReference.cache
+E:\Исходник\TimeToSleep\TimeToSleep\obj\Debug\TimeToSleep.csproj.SuggestedBindingRedirects.cache
+E:\Исходник\TimeToSleep\TimeToSleep\obj\Debug\TimeToSleep.Start.resources
+E:\Исходник\TimeToSleep\TimeToSleep\obj\Debug\TimeToSleep.Properties.Resources.resources
+E:\Исходник\TimeToSleep\TimeToSleep\obj\Debug\TimeToSleep.csproj.GenerateResource.cache
+E:\Исходник\TimeToSleep\TimeToSleep\obj\Debug\TimeToSleep.csproj.CoreCompileInputs.cache
+E:\Исходник\TimeToSleep\TimeToSleep\obj\Debug\TimeToSleep.exe
+E:\Исходник\TimeToSleep\TimeToSleep\obj\Debug\TimeToSleep.pdb
